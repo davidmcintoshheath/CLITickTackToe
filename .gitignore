@@ -1,0 +1,6 @@
+bin/*
+obj/*
+*.txt
+*.csv
+*.tsv
+*.dat
