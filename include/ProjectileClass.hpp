@@ -1,3 +1,4 @@
+//Created by David Heath
 #ifndef PROJECTILECLASS
 #define PROJECTILECLASS
 
